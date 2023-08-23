@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "353342639673",
+    "project_id": "viva-163",
+    "storage_bucket": "viva-163.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353342639673:android:0ed4bd1f81ff09667047e8",
+        "android_client_info": {
+          "package_name": "com.alexandredev.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353342639673-66ip49ucs9nla5k5k9v0gkabvf8v9srk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVZyff2vm83jIK7_M9OuKOtM9qdFoMTOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353342639673-66ip49ucs9nla5k5k9v0gkabvf8v9srk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

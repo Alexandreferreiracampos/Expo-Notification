@@ -4,8 +4,8 @@ const teste = {
     "ExponentPushToken[PjzbqtNxHOyuiShHg-gEAF]",
     "ExponentPushToken[II8JrpO00YMzAJcKcUJCL2]"
 ],
-	"title":"Te amo",
-	"body":"Vamos Banhar",
+	"title":"Viva 163",
+	"body":"Pisca Interditada",
 	"sound": "default",
     "data" : {"data":`[{"id":"6","categoriaAlerta":"Moderado","nome":"Pista interditada ","descricao":"Pista interditada para reparo na pista","latitude":"-13.8840228574886","longitude":"-56.08782089009299"},{"id":"5","categoriaAlerta":"Moderado","nome":"Tampa buraco","descricao":"Sendo realizado o tampa buraco na pista","latitude":"-13.559579130712832","longitude":"-56.02490822011719"},{"id":"4","categoriaAlerta":"Moderado","nome":"testando","descricao":"adfasdfsadfsdaf","latitude":"-13.355902848051816","longitude":"-56.0750333421875"},{"id":"2","categoriaAlerta":"Moderado","nome":"Transito Parado por 2 horas","descricao":"Realizando reparo na BR","latitude":"-13.800201339604234","longitude":"-56.069605498039266"},{"id":"1","categoriaAlerta":"Grave","nome":"Óleo na Pista","descricao":"Caminhão com oleo vazando na pista","latitude":"-13.808769841444034","longitude":"-56.07364728225012"}]`}
 }
